@@ -1,0 +1,12 @@
+{
+	"name":"UpperCase",
+	"version": "1.0",
+	"description": " Case Study 'Chrome Extensions' ",
+	"browser_action":{
+		"default_title": "Transform!",
+		"default_popup": "index.html",
+		"default_icon": "icon.png"
+	},
+
+	"manifest_version": 2
+}
